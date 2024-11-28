@@ -49,11 +49,15 @@ Hecho esto, ejecutamos el archivo `stack.sh` mediante el comando `./stack.sh`, c
 
 Este comando ejecutará todas las instalaciones requeridas para que la infraestructura se instale correctamente.
 
-###Problema presentado
+### Problema presentado
 
 	Openstack dejaba de funcionar despues de reiniciar la Máquina virtual
 	
 	La solución a esto se implementó cuando se detectó que el guest disk estaba insertado y ocupaba un espacio que Devstack usaba para inicializarse, al retirarlo este error se arregla.
+
+Una vez terminada la instalación, poderemos acceder al dashboard de Horizon mediante la estructura de URL `[ip de la máquina virtual]/dashboard/auth/login/?next=/dashboard/`. Deberemos ver la siguiente interfaz.
+
+![alt text](pictures/login-openstack.png)
 
 
 
