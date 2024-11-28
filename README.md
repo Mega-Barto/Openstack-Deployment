@@ -14,7 +14,7 @@ El repositorio tiene la finalidad de documentar el proceso completo para lograr 
 Para lograr esta meta, se generó una máquina virtual en Oracle VirtualBox, en la que se montó una imagen de Ubuntu, sobre la que se realizó todo el proceso expuesto a continuación.
 ## Preparación del entorno
 
-El despl
+El despliegue se realiza en VirtualBox, a continuación
 
 ![alt text](/pictures/1.png)
 
