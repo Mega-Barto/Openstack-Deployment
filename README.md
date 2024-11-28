@@ -16,10 +16,10 @@ Para lograr esta meta, se generó una máquina virtual en Oracle VirtualBox, en 
 
 El despl
 
-![alt text](1.png)
+![alt text](/pictures/1.png)
 
 ## Instalación de la IAAS
-![alt text](2.png)
+![alt text](/pictures/2.png)
 ## Configuración de OpenStack
 
 ## Despliegue de la Imagen
